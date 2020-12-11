@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geri/CLionProjects/MultiparadigmaZH_leapyears/main.c
+stdio.h
+-
+vizsgalat.h
+/home/geri/CLionProjects/MultiparadigmaZH_leapyears/vizsgalat.h
+
+/home/geri/CLionProjects/MultiparadigmaZH_leapyears/vizsgalat.h
+
